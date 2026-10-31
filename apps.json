@@ -1,0 +1,101 @@
+[
+  {
+    "id": "megatv-iptv",
+    "name": "MEGATV IPTV",
+    "filename": "Megatv_1991.1.apk",
+    "image": "images/megatv-iptv.jpg",
+    "sizeMB": 82.8,
+    "category": "IPTV",
+    "downloadUrl": "",
+    "downloaderCode": "",
+    "sha256": "7e2065f6f680929ba2169cf2ab6d1043f5c337609613be903bd7ede99ca762bb"
+  },
+  {
+    "id": "megatv-flix-new",
+    "name": "MEGATV FLIX NEW",
+    "filename": "MEG (2).apk",
+    "image": "images/megatv-flix-new.jpg",
+    "sizeMB": 35.9,
+    "category": "IPTV",
+    "downloadUrl": "",
+    "downloaderCode": "",
+    "sha256": "e2f8aafc90d8467a079430a834218ba987269a3f94299be707d93b780244fd72"
+  },
+  {
+    "id": "mega-now-active",
+    "name": "MEGA NOW ACTIVE",
+    "filename": "MEGATV_NOW (1).apk",
+    "image": "images/mega-now-active.jpg",
+    "sizeMB": 52.9,
+    "category": "IPTV",
+    "downloadUrl": "",
+    "downloaderCode": "",
+    "sha256": "df50bcd781c0ea06d065028ed1bc240087c9895c2010a3bf76e69edcafd94cc9"
+  },
+  {
+    "id": "megatv-gold",
+    "name": "MEGATV GOLD",
+    "filename": "mg.apk",
+    "image": "images/megatv-gold.jpg",
+    "sizeMB": 107.7,
+    "category": "IPTV",
+    "downloadUrl": "",
+    "downloaderCode": "",
+    "sha256": "bbdb25fa41b97418ea676aaa78a804bf66adcbb6379aaf9af49ac4931d198073"
+  },
+  {
+    "id": "megatv-active-user",
+    "name": "MEGATV Active+User",
+    "filename": "Mega-TV.apk",
+    "image": "images/megatv-active-user.jpg",
+    "sizeMB": 79.8,
+    "category": "IPTV",
+    "downloadUrl": "",
+    "downloaderCode": "",
+    "sha256": "993f1ecdc7b8372c847474f82f880a611bcb7f7f720c8e4217dde5d03b03ac0d"
+  },
+  {
+    "id": "megatv-pro-active-user",
+    "name": "MEGATV Pro Active+User",
+    "filename": "mp.apk",
+    "image": "images/megatv-pro-active-user.jpg",
+    "sizeMB": 76.5,
+    "category": "IPTV",
+    "downloadUrl": "",
+    "downloaderCode": "",
+    "sha256": "f7eac1a4abce2bad283fffb26207a8d22f668d59c7c7681a1ba5c896b98f1cbc"
+  },
+  {
+    "id": "megatv-red-active-user",
+    "name": "MEGATV RED+ Active + User",
+    "filename": "m (3).apk",
+    "image": "images/megatv-red-active-user.jpg",
+    "sizeMB": 78.0,
+    "category": "IPTV",
+    "downloadUrl": "",
+    "downloaderCode": "",
+    "sha256": "6001347be38077ce02f36944166679f0826ef8d61ddad6e5c69a5834f342a8f1"
+  },
+  {
+    "id": "megatv-red-3-1",
+    "name": "MEGATV RED+ 3.1",
+    "filename": "MegaTV_RED+_3.1 (1).apk",
+    "image": "images/megatv-red-3-1.jpg",
+    "sizeMB": 77.2,
+    "category": "IPTV",
+    "downloadUrl": "",
+    "downloaderCode": "",
+    "sha256": "ada2138616cc2819ca417fc776510e2c9e961be7106242836a97880210e1db28"
+  },
+  {
+    "id": "mega-flix-new-v2",
+    "name": "MEGA FLIX NEW V2",
+    "filename": "mflixv2 (2).apk",
+    "image": "images/mega-flix-new-v2.jpg",
+    "sizeMB": 33.1,
+    "category": "IPTV",
+    "downloadUrl": "",
+    "downloaderCode": "",
+    "sha256": "9987ac2e3521094a523667cf6db193b373249b4c455d2abf0fdde32121be13cb"
+  }
+]
