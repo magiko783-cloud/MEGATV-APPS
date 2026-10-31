@@ -6,7 +6,7 @@
     "image": "images/megatv-iptv.jpg",
     "sizeMB": 82.8,
     "category": "IPTV",
-    "downloadUrl": "",
+    "downloadUrl": "https://github.com/magiko783-cloud/MEGATV-APPS/releases/download/v1.0.0/Megatv_1991.1.apk",
     "downloaderCode": "",
     "sha256": "7e2065f6f680929ba2169cf2ab6d1043f5c337609613be903bd7ede99ca762bb"
   },
