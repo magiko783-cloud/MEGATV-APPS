@@ -107,5 +107,16 @@
     "downloadUrl": "https://github.com/magiko783-cloud/MEGATV-APPS/releases/download/v1.0.0/mflixv2.2.apk",
     "downloaderCode": "",
     "sha256": "9987ac2e3521094a523667cf6db193b373249b4c455d2abf0fdde32121be13cb"
+  },
+  {
+    "id": "mega-smart",
+    "name": "MEGA SMART",
+    "filename": "MEGA_SMART_v1.0.12_universal.apk",
+    "image": "images/mega-smart.jpg",
+    "sizeMB": 101.99,
+    "category": "IPTV",
+    "downloadUrl": "https://magiko783-cloud.github.io/-MEGA-SMART-UPDATES/",
+    "downloaderCode": "5810740",
+    "sha256": "db293e96c4e45739e0bde27e229d60aca261b9e06cb78a8258dc3ae61256eeb0"
   }
 ]
